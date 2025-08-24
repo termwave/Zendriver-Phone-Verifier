@@ -1,0 +1,8 @@
+requests
+psutil
+colorama
+zendriver
+pystyle
+notify-py
+urllib3
+httpx

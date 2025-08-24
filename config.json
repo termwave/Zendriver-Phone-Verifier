@@ -1,0 +1,10 @@
+{
+    "api_key": "",
+    "api_url": "https://5sim.net/v1",
+    "country": "kenya",
+    "operator": "virtual51",
+    "product": "discord",
+    "country_code": "254",
+    "notify": true,
+    "notification_icon": "data/pack.ico"
+}
