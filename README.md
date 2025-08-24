@@ -22,7 +22,6 @@
 ## ✨ Features
 
 - 🟢 **Terminal Aesthetic** (animated timestamps, gradient banners, slick logs)
-- 🔐 **License-Gated Access** with HWID binding and IP history
 - 🔔 **Desktop Notifications** (optional) via `notify-py`
 - 📦 **Process Control** with safe multiprocessing caps
 - 📜 **Audit-Friendly Logs** and verified token output file
