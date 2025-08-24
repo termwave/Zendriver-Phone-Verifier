@@ -119,7 +119,7 @@ verified.txt   # format: email:password:token
 
 ## 👤 Credits
 
-**Creator:** `Tunable | Termwave`  
+**Creator:** `Termwave`  
 **Contributors:** Wizard • Predzen  
 **License:** MIT
 
