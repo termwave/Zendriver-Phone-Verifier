@@ -16,7 +16,6 @@ from notifypy import Notify
 import sys
 import re
 import time
-import hashlib
 
 try:
     with open('config.json', encoding='utf-8') as f:
@@ -495,4 +494,5 @@ if __name__ == "__main__":
     print("\n")
     if not config.get("notify", True):
         log.warning("⚠️ Notification Alert is disabled at config.json.")
+
     main()
